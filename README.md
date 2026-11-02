@@ -17,39 +17,14 @@
 |:--|:--|:--|
 | 数据尽量留在设备上，能力不依赖云端才能成立。 | 好的工具应该解释自己，而不是把系统概念直接丢给用户。 | 能运行、能复现、能验证，比漂亮的演示更重要。 |
 
-## 正在构建
+## 原创项目
+
+<sub>以下为我创建并维护的项目。</sub>
 
 <a href="https://github.com/Samoyer/mole-gui">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/Samoyer/Samoyer@main/assets/card-mole-gui-dark.svg">
     <img src="https://fastly.jsdelivr.net/gh/Samoyer/Samoyer@main/assets/card-mole-gui-light.svg" width="100%" alt="Mole GUI — A calmer interface for cleanup, disk analysis, and app uninstall.">
-  </picture>
-</a>
-<a href="https://github.com/Samoyer/gridcraft">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/Samoyer/Samoyer@main/assets/card-gridcraft-dark.svg">
-    <img src="https://fastly.jsdelivr.net/gh/Samoyer/Samoyer@main/assets/card-gridcraft-light.svg" width="100%" alt="GridCraft — A clean-room spreadsheet built from first principles in pure Rust.">
-  </picture>
-</a>
-<a href="https://github.com/Samoyer/rea">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/Samoyer/Samoyer@main/assets/card-rea-dark.svg">
-    <img src="https://fastly.jsdelivr.net/gh/Samoyer/Samoyer@main/assets/card-rea-light.svg" width="100%" alt="REA — Reverse engineer app behavior, binaries, and shipped artifacts with agents.">
-  </picture>
-</a>
-
-## 设计与工作流
-
-<a href="https://github.com/Samoyer/sunny-ui-design-system">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/Samoyer/Samoyer@main/assets/card-sunny-ui-design-system-dark.svg">
-    <img src="https://fastly.jsdelivr.net/gh/Samoyer/Samoyer@main/assets/card-sunny-ui-design-system-light.svg" width="100%" alt="Sunny UI — Color palettes, layered materials, and reusable React appearance controls.">
-  </picture>
-</a>
-<a href="https://github.com/Samoyer/lancer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/Samoyer/Samoyer@main/assets/card-lancer-dark.svg">
-    <img src="https://fastly.jsdelivr.net/gh/Samoyer/Samoyer@main/assets/card-lancer-light.svg" width="100%" alt="Lancer — A focused desktop workspace for working with local AI agents.">
   </picture>
 </a>
 <a href="https://github.com/Samoyer/zcode-task-queue">
@@ -58,15 +33,18 @@
     <img src="https://fastly.jsdelivr.net/gh/Samoyer/Samoyer@main/assets/card-zcode-task-queue-light.svg" width="100%" alt="ZCode Task Queue — A sequential session-resume queue for repeatable coding-agent workflows.">
   </picture>
 </a>
+<a href="https://github.com/Samoyer/samo-tv">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/Samoyer/Samoyer@main/assets/card-samo-tv-dark.svg">
+    <img src="https://fastly.jsdelivr.net/gh/Samoyer/Samoyer@main/assets/card-samo-tv-light.svg" width="100%" alt="Samo TV — A lightweight Android TV launcher built for a focused living-room experience.">
+  </picture>
+</a>
 
 <details>
-<summary><strong>还有这些实验与项目</strong> &nbsp;·&nbsp; <sub>More experiments</sub></summary>
+<summary><strong>更多原创项目</strong> &nbsp;·&nbsp; <sub>More original work</sub></summary>
 <br>
 
-- [**Samo TV**](https://github.com/Samoyer/samo-tv) — 轻量、离线的 Android TV 启动器。
-- [**Smart Config Kit**](https://github.com/Samoyer/Smart-Config-Kit) — 面向多种客户端的网络分流配置。
-- [**DeepTutor**](https://github.com/Samoyer/DeepTutor) — 终身个性化学习平台。
-- [**ARTEX**](https://github.com/Samoyer/ARTEX) — AI 自主渗透测试系统。
+- [**Decoration TI V2**](https://github.com/Samoyer/decoration-ti-v2) — 装修 TI 人格测试 V2。
 
 </details>
 
