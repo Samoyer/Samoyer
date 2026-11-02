@@ -1,0 +1,26 @@
+<svg width="1080" height="142" viewBox="0 0 1080 142" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sunny UI</title>
+  <desc id="desc">Color palettes, layered materials, and reusable React appearance controls.</desc>
+  <defs>
+    <linearGradient id="card-bg" x1="0" y1="0" x2="1080" y2="142" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFCF7"/>
+      <stop offset="1" stop-color="#EDE7DD"/>
+    </linearGradient>
+    <radialGradient id="card-glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(962 75) rotate(90) scale(150 330)">
+      <stop stop-color="#C77D69" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#C77D69" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.75" y="0.75" width="1078.5" height="140.5" rx="22.25" fill="url(#card-bg)" stroke="#DCD5C9" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="1078.5" height="140.5" rx="22.25" fill="url(#card-glow)"/>
+  <rect x="26" y="25" width="4" height="92" rx="2" fill="#C77D69"/>
+  <text x="54" y="37" fill="#C77D69" font-family="'SFMono-Regular',Consolas,monospace" font-size="10.5" font-weight="700" letter-spacing="1.65">DESIGN SYSTEM  /  INTERFACE</text>
+  <text x="53" y="76" fill="#1C1D1F" font-family="'SF Pro Display',-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif" font-size="30" font-weight="700" letter-spacing="-.7">Sunny UI</text>
+  <text x="54" y="102" fill="#6F6B65" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif" font-size="14.5">Color palettes, layered materials, and reusable React appearance controls.</text>
+  <text x="54" y="125" fill="#A59F96" font-family="'SFMono-Regular',Consolas,monospace" font-size="9.5" letter-spacing="1.25">CSS  ·  REACT  ·  DESIGN STANDARDS</text>
+  <text x="1042" y="30" text-anchor="end" fill="#A59F96" font-family="'SFMono-Regular',Consolas,monospace" font-size="11" letter-spacing="1.5">04</text>
+  <g transform="translate(992 96)">
+    <circle cx="22" cy="22" r="21" stroke="#DCD5C9"/>
+    <path d="M15 22H29M24 16L30 22L24 28" stroke="#C77D69" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

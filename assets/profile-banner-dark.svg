@@ -1,0 +1,54 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Samoyer — Small tools. Real workflows.</title>
+  <desc id="desc">A warm slate banner with amber line art inspired by a cat and a small companion.</desc>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="24" x2="1170" y2="326" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111214"/>
+      <stop offset="1" stop-color="#191A1E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1038 169) rotate(90) scale(315 430)">
+      <stop stop-color="#E8A15E" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#E8A15E" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#313238" stroke-opacity="0.10"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect x="18" y="18" width="1244" height="304" rx="30"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect x="18" y="18" width="1244" height="304" rx="30" fill="url(#bg)"/>
+    <rect x="18" y="18" width="1244" height="304" rx="30" fill="url(#grid)"/>
+    <rect x="18" y="18" width="1244" height="304" rx="30" fill="url(#glow)"/>
+    <path d="M982 54C1042 89 1101 84 1173 54" stroke="#F3C08C" stroke-opacity=".34" stroke-width="1.5"/>
+    <path d="M935 279C1025 240 1112 250 1213 297" stroke="#E8A15E" stroke-opacity=".18" stroke-width="1.5"/>
+
+    <g opacity=".95">
+      <path d="M1047 214C1019 192 1001 163 1000 129C999 96 1017 71 1047 68C1077 71 1095 96 1094 129C1093 163 1075 192 1047 214Z" stroke="#F3C08C" stroke-width="2.5"/>
+      <path d="M1004 100L991 59L1022 78" stroke="#F3C08C" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M1090 100L1103 59L1072 78" stroke="#F3C08C" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M1017 128C1024 123 1030 123 1036 128M1058 128C1064 123 1070 123 1077 128" stroke="#F3C08C" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M1046 139L1040 149H1052L1046 139Z" fill="#E8A15E"/>
+      <path d="M1040 158C1045 163 1049 163 1054 158" stroke="#F3C08C" stroke-width="2" stroke-linecap="round"/>
+      <path d="M1007 144L970 136M1006 151L968 153M1008 158L975 169M1085 144L1122 136M1086 151L1124 153M1084 158L1117 169" stroke="#E8A15E" stroke-opacity=".72" stroke-width="1.8" stroke-linecap="round"/>
+      <circle cx="1047" cy="39" r="19" fill="#17181C" stroke="#F3C08C" stroke-width="2"/>
+      <path d="M1038 29L1034 19L1043 24M1056 29L1060 19L1051 24" stroke="#F3C08C" stroke-width="1.6" stroke-linejoin="round"/>
+      <circle cx="1042" cy="37" r="1.4" fill="#E8A15E"/>
+      <circle cx="1052" cy="37" r="1.4" fill="#E8A15E"/>
+      <path d="M1047 42V44M1044 47C1046 49 1048 49 1050 47" stroke="#F3C08C" stroke-width="1.2" stroke-linecap="round"/>
+    </g>
+
+    <rect x="70" y="64" width="142" height="28" rx="14" fill="#E8A15E" fill-opacity=".12" stroke="#E8A15E" stroke-opacity=".34"/>
+    <circle cx="86" cy="78" r="3" fill="#E8A15E"/>
+    <text x="98" y="82" fill="#E8A15E" font-family="'SFMono-Regular',Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.8">BUILD LOG / 001</text>
+
+    <text x="70" y="174" fill="#F5F0E7" font-family="'SF Pro Display',-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif" font-size="86" font-weight="700" letter-spacing="-5">SAMOYER</text>
+    <text x="74" y="218" fill="#F5F0E7" font-family="'SF Pro Display',-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif" font-size="27" font-weight="500" letter-spacing="-.4">Small tools. Real workflows.</text>
+    <path d="M74 246H604" stroke="#313238" stroke-width="1"/>
+    <text x="74" y="275" fill="#A9A49C" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif" font-size="14" letter-spacing=".2">LOCAL-FIRST SOFTWARE  ·  DESKTOP SYSTEMS  ·  DEVELOPER TOOLS</text>
+
+    <text x="1182" y="286" text-anchor="end" fill="#77736C" font-family="'SFMono-Regular',Consolas,monospace" font-size="10" letter-spacing="1.7">OPEN SOURCE / MADE WITH CARE</text>
+    <rect x="18.5" y="18.5" width="1243" height="303" rx="29.5" stroke="#313238"/>
+  </g>
+</svg>
